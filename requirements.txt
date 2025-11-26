@@ -1,0 +1,13 @@
+google-generativeai
+langchain
+langchain-google-genai
+sentence-transformers
+chromadb
+rank_bm25
+streamlit
+pandas
+python-dotenv
+faiss-cpu
+langchain-groq
+fastapi
+uvicorn

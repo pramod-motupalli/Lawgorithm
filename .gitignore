@@ -1,0 +1,11 @@
+chroma_db/
+node_modules/
+.env
+*.sqlite3
+prompt.txt
+chroma_db
+Lawgorithm_Architecture_Explained.txt
+Deep_Dive_Agents_Explained.txt
+Deep_Dive_Verdicts_IPC_Chroma.txt
+implementation_plan.md
+walkthrough.md
